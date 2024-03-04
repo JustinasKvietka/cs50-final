@@ -7,7 +7,7 @@ attendance, payments, contacts adn other relevant information of the students
 additional features workout creator (makes a semi random workout after user fills it with exercises)
 TODO:
 - [ ]  HTML's
-    - [x] layout
+    - [] layout
     - [ ] login
         -[ ] password change
     - [ ] register
